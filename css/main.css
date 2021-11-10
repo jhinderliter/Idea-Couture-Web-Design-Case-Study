@@ -1,3 +1,18 @@
+:root {
+    -color--black: #000;
+    -color--white: #fff;
+    -color--dark charcoal: #333;
+    -color--light gray: #D9D9D9;
+}
+
+html {box-sizing:border-box;
+
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
 body {
     font-family: sans-serif;
   }
