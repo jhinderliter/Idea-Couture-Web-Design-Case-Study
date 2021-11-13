@@ -40,6 +40,7 @@ body {
     display: flex;
     margin: 0;
   }
+
   
   .header-menu__click, .footer-menu__click {
     padding: 1rem;
@@ -52,3 +53,11 @@ body {
   .strike:hover {
     text-decoration: line-through;
   }
+
+
+/* main */
+
+main-case {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(600px,1fr));
+}
