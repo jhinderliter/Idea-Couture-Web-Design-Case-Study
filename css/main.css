@@ -22,26 +22,26 @@ body {
     margin: 0 auto;
   }
   
-  /* header */
+  /* header and footer */
   
-  .header-menu {
+  .header-menu, .footer-menu {
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
-  .header-menu a {
+  .header-menu a, .footer-menu a {
     color: #000000;
     text-decoration: none;
   }
   
-  .header-menu__list {
+  .header-menu__list, .footer-menu__list {
     list-style-type: none;
     padding-left: 0;
     display: flex;
     margin: 0;
   }
   
-  .header-menu__click {
+  .header-menu__click, .footer-menu__click {
     padding: 1rem;
     position: relative;
     display: block;
