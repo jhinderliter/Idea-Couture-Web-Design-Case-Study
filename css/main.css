@@ -62,3 +62,11 @@ main-case {
     grid-template-columns: repeat(auto-fit, minmax(600px,1fr,1fr));
     grid-gap: 40px;
 }
+
+.carousel-inner__row {
+  display: flex;
+}
+
+.carousel-inner__column {
+  flex: 50%;
+}
