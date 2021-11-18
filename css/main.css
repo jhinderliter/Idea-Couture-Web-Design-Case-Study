@@ -63,6 +63,7 @@ body {
 
 .carousel-inner__column {
   flex: 50%;
+  column
 }
 
 .carousel-inner__title {
@@ -83,6 +84,6 @@ body {
 
 @media screen and (max-width: 600px) {
   .main-case {
-    width: 100%;
+    width: 500px;
   }
 }
