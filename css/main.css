@@ -57,12 +57,6 @@ body {
 
 /* main */
 
-main-case {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(600px,1fr,1fr));
-    grid-gap: 40px;
-}
-
 .carousel-inner__row {
   display: flex;
 }
@@ -74,20 +68,20 @@ main-case {
 .carousel-inner__title {
   font-family: Nanum Myeongjo, serif;
   font-weight: lighter;
-  font-size: 18px; 
+  font-size: 15px; 
 }
 
 .carousel-inner__paragraph {
   font-family: Inter, sans-serif;
   font-weight: bold;
-  font-size: 60px;
+  font-size: 50px;
 }
 
 .carousel-inner_img {
   width: 100%;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 300px) {
   .main-case {
     width: 100%;
   }
