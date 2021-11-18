@@ -63,7 +63,8 @@ body {
 
 .carousel-inner__column {
   flex: 50%;
-  column
+  border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 .carousel-inner__title {
