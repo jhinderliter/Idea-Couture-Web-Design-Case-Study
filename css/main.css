@@ -29,7 +29,7 @@ body {
     justify-content: space-between;
     align-items: center;
   }
-  .header-menu a, .footer-menu a {
+  .header-menu a, .footer-menu a, .cover-navbar a {
     color: #000000;
     text-decoration: none;
   }
