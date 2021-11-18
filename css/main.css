@@ -34,7 +34,7 @@ body {
     text-decoration: none;
   }
   
-  .header-menu__list, .footer-menu__list {
+  .header-menu__list, .footer-menu__list, .cover-navbar__list {
     list-style-type: none;
     padding-left: 0;
     display: flex;
@@ -87,3 +87,4 @@ body {
     width: 500px;
   }
 }
+
