@@ -70,3 +70,19 @@ main-case {
 .carousel-inner__column {
   flex: 50%;
 }
+
+.carousel-inner__title {
+  font-family: Nanum Myeongjo, serif;
+  font-weight: lighter;
+  font-size: 18px; 
+}
+
+.carousel-inner__paragraph {
+  font-family: Inter, sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+.carousel-inner_img {
+  width: 100%;
+}
