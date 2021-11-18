@@ -86,3 +86,9 @@ main-case {
 .carousel-inner_img {
   width: 100%;
 }
+
+@media screen and (max-width: 600px) {
+  .main-case {
+    width: 100%;
+  }
+}
