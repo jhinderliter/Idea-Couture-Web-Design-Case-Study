@@ -42,7 +42,7 @@ body {
   }
 
   
-  .header-menu__click, .footer-menu__click {
+  .header-menu__click, .footer-menu__click, .cover-navbar__click {
     padding: 1rem;
     position: relative;
     display: block;
