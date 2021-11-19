@@ -69,14 +69,14 @@ body {
 
 .carousel-inner__title {
   font-family: Nanum Myeongjo, serif;
-  font-weight: lighter;
+  font-weight: 300;
   font-size: 15px; 
 }
 
 .carousel-inner__paragraph {
   font-family: Inter, sans-serif;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 45px;
 }
 
 .nav-container {
