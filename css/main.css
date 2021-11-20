@@ -89,6 +89,10 @@ body {
   font-size: 45px;
 }
 
+.nav-container {
+    padding-top: 20px;
+}
+
 .carousel-inner_img {
   width: 100%;
 }
