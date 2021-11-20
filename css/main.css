@@ -24,7 +24,7 @@ body {
   
   /* header and footer */
   
-  .header-menu, .footer-menu {
+  .header-menu, .footer-menu, .nav-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -87,10 +87,6 @@ body {
   font-family: Inter, sans-serif;
   font-weight: bold;
   font-size: 45px;
-}
-
-.nav-container {
-    display: inline-block;
 }
 
 .carousel-inner_img {
