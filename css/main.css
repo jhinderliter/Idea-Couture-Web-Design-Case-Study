@@ -83,6 +83,10 @@ body {
   font-size: 15px; 
 }
 
+.carousel-inner__title {
+    letter-spacing: 2px;
+}
+
 .carousel-inner__paragraph {
   font-family: Inter, sans-serif;
   font-weight: bold;
