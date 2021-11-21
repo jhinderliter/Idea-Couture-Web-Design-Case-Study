@@ -87,11 +87,11 @@ body {
   font-family: Inter, sans-serif;
   font-weight: bold;
   font-size: 45px;
-  margin-bottom: 50px; 
 }
 
 .nav-container {
-    margin-top: 100px;
+    position: absolute;
+    bottom: 0;
 }
 
 .carousel-inner_img {
