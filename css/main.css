@@ -1,8 +1,8 @@
 :root {
-    -color--black: #000;
-    -color--white: #fff;
-    -color--dark charcoal: #333;
-    -color--light gray: #D9D9D9;
+    --color-black: #000;
+    --color-white: #fff;
+    --color-dark charcoal: #333;
+    --color-light gray: #D9D9D9;
 }
 
 html {box-sizing:border-box;
@@ -30,7 +30,7 @@ body {
     align-items: center;
   }
   .header-menu a, .footer-menu a, .cover-navbar a {
-    color: #000000;
+    color: var (--color-black);
     text-decoration: none;
   }
   
