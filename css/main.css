@@ -128,10 +128,9 @@ font-family: Nanum Myeongjo, serif;
 }
 
 .slides-item {
-  align-items: center;
   display: flex;
   flex-shrink: 0;
-  justify-content: center;
+  justify-content: left;
   margin: 0 1rem;
   position: relative;
   transform: scale(1);
