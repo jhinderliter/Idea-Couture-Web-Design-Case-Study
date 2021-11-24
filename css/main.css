@@ -84,6 +84,8 @@ body {
 }
 
 .carousel-inner__title {
+  padding-top: 30px;
+  display: block;
     letter-spacing: 3px;
     float: left;
 }
@@ -92,6 +94,8 @@ body {
   font-family: Inter, sans-serif;
   font-weight: bold;
   font-size: 45px;
+  display: inline-block;
+  margin-top: 0;
   text-align: left;
 }
 
