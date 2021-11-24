@@ -146,7 +146,9 @@ font-family: Nanum Myeongjo, serif;
   width: 100%;
 }
 
-.row {
+.row,.main-case__mandate,main-case__ichuman,.main-case__icinsights {
+  padding: 20px;
+}
   padding: 20px;
 }
 
