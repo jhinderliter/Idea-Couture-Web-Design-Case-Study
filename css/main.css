@@ -18,7 +18,7 @@ body {
   }
   
   .container {
-    max-width: 85rem;
+    max-width: 80rem;
     margin: 0 auto;
   }
   
@@ -79,7 +79,7 @@ body {
 
 .carousel-inner__title, .cover-navbar__list {
   font-family: Nanum Myeongjo, serif;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 15px; 
 }
 
@@ -103,7 +103,7 @@ body {
 font-family: Nanum Myeongjo, serif;
   font-weight: 700;
   font-size: 12px;
-  margin-right: 350px;
+  margin-right: 330px;
 }
 
 
