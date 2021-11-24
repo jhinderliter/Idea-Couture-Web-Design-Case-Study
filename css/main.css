@@ -158,5 +158,6 @@ font-family: Nanum Myeongjo, serif;
   color: none;
   }
 
-.main-case a:hover {
+.main-case:not(.active):hover {
   color: var (--color-lightgray);
+}
