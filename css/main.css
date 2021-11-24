@@ -88,6 +88,7 @@ body {
   display: block;
     letter-spacing: 3px;
     float: left;
+    font-weight: 500;
 }
 
 .carousel-inner__paragraph {
@@ -101,9 +102,13 @@ body {
 
 .carousel-inner__pagecounter {
 font-family: Nanum Myeongjo, serif;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 12px;
-  margin-right: 400px;
+  margin-right: 350px;
+}
+
+.cover-navbar__list {
+    font-weight: 500;
 }
 
 .nav-container {
