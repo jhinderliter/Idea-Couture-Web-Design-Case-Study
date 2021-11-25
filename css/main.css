@@ -152,15 +152,9 @@ font-family: Nanum Myeongjo, serif;
   padding-right: 20px;
 }
 
-
-.col {
-    margin: 50px;
-}
-
-.main-case a:active:hover {
+.main-case a:active {
   color: none;
   }
-
-.main-case:not(.active):hover {
+.main-case a:not(.active):hover {
   color: var(--color-light-gray);
 }
