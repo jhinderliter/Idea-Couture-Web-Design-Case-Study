@@ -103,7 +103,7 @@ body {
 font-family: Nanum Myeongjo, serif;
   font-weight: 700;
   font-size: 12px;
-  margin-right: 300px;
+  margin-right: 310px;
 }
 
 
@@ -114,8 +114,12 @@ font-family: Nanum Myeongjo, serif;
     justify-content: space-between;
 }
 
-.carousel-inner_img {
-  width: 100%;
+.carousel-inner__column {
+  width: 50%;
+}
+
+.carousel-inner__img img {
+    width: 100%;
 }
 
 @media screen and (max-width: 600px) {
