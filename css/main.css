@@ -115,12 +115,9 @@ font-family: Nanum Myeongjo, serif;
     justify-content: space-between;
 }
 
-.carousel-inner__column__L {
-  width: 40%;
-}
 
-.carousel-inner__column__R {
-  width: 60%;
+.carousel-inner__column {
+  width: 50%;
 }
 .carousel-inner__img img {
     width: 100%;
