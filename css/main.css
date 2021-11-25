@@ -68,7 +68,7 @@ body {
     position: relative;
 }
 
-.carousel-inner_column:after {
+.carousel-inner__column:after {
     content: '';
     display: block;
     position: absolute;
