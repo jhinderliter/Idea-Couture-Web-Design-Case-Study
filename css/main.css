@@ -144,10 +144,12 @@ font-family: Nanum Myeongjo, serif;
   width: 100%;
 }
 
+.row {
+    marign-top: 20px;
+    margin-bottom: 20px;
+
 .main-case__mandate,.main-case__ichuman,.main-case__icinsights,.main-case__ichealth,.main-case__icfutures,.main-case__ictransformation,.main-case__iccx,.main-case__icbrand,.main-case__icdesign,.main-case__leadership,.main-case__food,.main-case__bears,.main-case__game,.main-case__joinus,.main-case__contactus {
   padding-right: 20px;
-    padding-top: 10px;
-    padding-botton: 10px;
 }
 
 .main-case a:hover {
