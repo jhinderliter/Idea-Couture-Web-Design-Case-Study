@@ -54,6 +54,9 @@ body {
     text-decoration: line-through;
   }
 
+.footer {
+    border-top: solid 1px var(--color-light-gray);
+}
 
 /* main */
 
