@@ -82,7 +82,7 @@ body {
     
 
 .carousel-inner__title, .cover-navbar__list {
-  font-family: Nanum Myeongjo, serif;
+  font-family: "Nanum Myeongjo", serif;
   font-weight: 600;
   font-size: 15px; 
 }
@@ -105,7 +105,7 @@ body {
 }
 
 .carousel-inner__pagecounter {
-font-family: Nanum Myeongjo, serif;
+font-family: "Nanum Myeongjo", serif;
   font-weight: 700;
   font-size: 12px;
   margin-right: 310px;
@@ -148,7 +148,7 @@ font-family: Nanum Myeongjo, serif;
 }
 
 .row {
-    marign-top: 20px;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 
