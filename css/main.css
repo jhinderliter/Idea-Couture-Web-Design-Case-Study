@@ -109,8 +109,7 @@ font-family: "Nanum Myeongjo", serif;
 
 @media screen and (max-width: 600px) {
   .carousel-inner__column {
-    display: flex;
-      overflow: auto;
+    display: 50%;
   }
 }
 
