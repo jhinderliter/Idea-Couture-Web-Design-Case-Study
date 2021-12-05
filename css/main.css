@@ -324,7 +324,7 @@ font-family: "Nanum Myeongjo", serif;
     padding-top: 20px;
 }
 
-.main-case__mandate img:hover + .main-case__ichuman img, .main-case__icinsights img, .main-case__ichealth img, .main-case__icfutures img, ,main-case__ictransformation img, .main-case__iccx img, .main-case__icbrand img, .main-case__icdesign img, .main-case__food img, .main-case__bears img, .main-case__game img, .main-case__joinus img, .main-case__contactus img {
-  opacity:0.7;
-  box-shadow: 0.5px 0.5px 0.5px var(--color-light-gray);
+.main-case img:hover {
+    opacity:0.7;
+    box-shadow: 0.5px 0.5px 0.5px var(--color-light-gray);
 }
