@@ -109,7 +109,7 @@ font-family: "Nanum Myeongjo", serif;
 
 @media screen and (max-width: 600px) {
   .carousel-inner__column {
-    display: 50%;
+    width: 50%;
   }
 }
 
@@ -272,7 +272,7 @@ font-family: "Nanum Myeongjo", serif;
 
 @media screen and (max-width: 600px) {
   .carousel-inner__column {
-    display: 50%;
+    width: 50%;
   }
 }
 
@@ -326,6 +326,6 @@ font-family: "Nanum Myeongjo", serif;
 
 .main-case img:hover {
     opacity:0.5;
-     box-shadow: 0.5px var(--color-light-gray);
+     box-shadow: 0.1px 0.1px 0.1px var(--color-light-gray);
 }
 
