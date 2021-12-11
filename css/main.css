@@ -161,7 +161,8 @@ font-family: "Nanum Myeongjo", serif;
     padding-top: 20px;
 }
 
-.main-case img:hover {
-    opacity:0.2;
-  box-shadow: 0.1px 0.1px 0.1px var(--color-light-gray);
+.main-case-div:hover img { opacity:0.2; box-shadow: 0.1px 0.1px 0.1px var(--color-light-gray);
+}
+
+.main-case-div img:hover { opacity:1; box-shadow: none;
 }
